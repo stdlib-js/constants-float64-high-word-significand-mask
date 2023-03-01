@@ -169,7 +169,7 @@ Macro for the high word mask for the significand of a [double-precision floating
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/constants/float64/high-word-exponent-mask`][@stdlib/constants/float64/high-word-exponent-mask]</span><span class="delimiter">: </span><span class="description">high word mask for the exponent of a double-precision floating-point number.</span>
+-   <span class="package-name">[`@stdlib/constants-float64/high-word-exponent-mask`][@stdlib/constants/float64/high-word-exponent-mask]</span><span class="delimiter">: </span><span class="description">high word mask for the exponent of a double-precision floating-point number.</span>
 
 </section>
 
